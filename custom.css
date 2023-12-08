@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:300;
+    color: white;
+}
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    font-weight:900;
+    color: white;
+}
+h2 {
+    font-family:'Times New Roman', Times, serif;
+    font-weight:900;
+    font-size: 1.3rem;
+    color: white;
+}
+p {
+    font-size: 1.3rem
+}
+a:link {
+    color:deepskyblue;
+    text-decoration: none;
+}
+a:visited {
+    color:deepskyblue;
+    text-decoration: none;
+}
+a:hover {
+    color:deepskyblue;
+    text-decoration: underline;
+}
+a:active {
+    color:goldenrod;
+    text-decoration: underline;
+}
+.mt-10 {
+    margin-top: 6rem !important;
+}
+.article-body-space {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.apa-reference {
+    padding-left: 1.3rem
+    text-indent: -1.3rem
+}
