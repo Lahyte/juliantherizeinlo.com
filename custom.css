@@ -1,17 +1,9 @@
 body {
-    background-color: black;
-    font-family: sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     color: white;
 }
 h1 {
-    font-family:"Times New Roman", Times, serif;
-    font-weight: bold;
-    color: white;
-}
-h2 {
-    font-family:"Times New Roman", Times, serif;
-    font-weight:bold;
-    font-size: 1.3rem;
+    font-family:'Times New Roman', Times, serif;
     color: white;
 }
 p {
@@ -35,8 +27,4 @@ a:active {
 }
 .mt-10 {
     margin-top: 6rem !important;
-}
-.article-body-space {
-    margin-top: 3rem;
-    margin-bottom: 3rem;
 }
