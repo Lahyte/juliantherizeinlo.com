@@ -3,6 +3,10 @@ body {
     color: white;
     background-color: black;
 }
+h2 {
+    font-size: 1.3rem;
+    font-weight: 500;
+}
 p {
     font-size: 1.3rem
 }
