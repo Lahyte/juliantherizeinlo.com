@@ -2,13 +2,6 @@ body {
     color: white;
     background-color: black;
 }
-h2 {
-    font-size: 1rem;
-    font-weight: 400;
-}
-p {
-    font-size: 1rem
-}
 a:link {
     color:deepskyblue;
     text-decoration: none;
