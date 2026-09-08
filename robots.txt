@@ -1,6 +1,2 @@
 User-agent: *
-Disallow: /search
-Disallow: /category/
-Disallow: /tag/
-Allow: /
-Sitemap: https://www.juliantherizeinlo.com/sitemap.xml
+Disallow: /
